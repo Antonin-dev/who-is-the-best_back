@@ -17,7 +17,7 @@ const questions = [
             }
         ]
     },{
-        question: "premier question",
+        question: "deuxieme question",
         answer: [
             {
                 text : "blablabla",
@@ -34,7 +34,7 @@ const questions = [
             }
         ]
     },{
-        question: "premier question",
+        question: "troisieme question",
         answer: [
             {
                 text : "blablabla",
@@ -51,7 +51,7 @@ const questions = [
             }
         ]
     },{
-        question: "premier question",
+        question: "quatrieme question",
         answer: [
             {
                 text : "blablabla",
@@ -68,7 +68,7 @@ const questions = [
             }
         ]
     },{
-        question: "premier question",
+        question: "cinquieme question",
         answer: [
             {
                 text : "blablabla",
@@ -85,7 +85,7 @@ const questions = [
             }
         ]
     },{
-        question: "premier question",
+        question: "sixieme question",
         answer: [
             {
                 text : "blablabla",

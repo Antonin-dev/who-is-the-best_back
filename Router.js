@@ -1,7 +1,6 @@
 const express = require('express');
 const methods = require("./Method/method")
 
-
 const app = express();
 const port = process.env.PORT || 3001;
 const cors = require('cors');

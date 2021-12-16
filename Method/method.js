@@ -4,15 +4,12 @@ const rankData = require("../Data/rankData");
 function getQuestions() {
     return questionsData;
 }
-
 function getQuestionById(id){
     return questionsData[id]
 }
-
 function getRank(){
     return rankData;
 }
-
 function addRank(name, score){
     rankData.push({
         name : name,

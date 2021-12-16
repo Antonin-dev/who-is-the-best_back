@@ -1,18 +1,18 @@
 const questions = [
     {
-        question: "premier question",
+        question: "Qui est le plus enervé dans la classe?",
         answer: [
             {
-                text : "blablabla",
+                text : "Julien",
                 isValid: true
             },{
-                text : "blablabla",
+                text : "Mathilde",
                 isValid: false
             },{
-                text : "blablabla",
+                text : "Guillaume",
                 isValid: false
             },{
-                text : "blablabla",
+                text : "Medhi",
                 isValid: false
             }
         ]

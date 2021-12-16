@@ -17,87 +17,87 @@ const questions = [
             }
         ]
     },{
-        question: "deuxieme question",
+        question: "Qui recoit le plus de like sur adopte un mec ?",
         answer: [
-            {
-                text : "blablabla",
+           {
+                text : "Antonin",
+                isValid: false
+            },{
+                text : "Lise",
+                isValid: false
+            }, {
+                text : "Mathilde",
                 isValid: true
             },{
-                text : "blablabla",
-                isValid: false
-            },{
-                text : "blablabla",
-                isValid: false
-            },{
-                text : "blablabla",
+                text : "Lucas",
                 isValid: false
             }
         ]
     },{
-        question: "troisieme question",
+        question: "Qui fait des salto arriere à la patinoire d'odysseum?",
         answer: [
             {
-                text : "blablabla",
+                text : "Mathilde c'est sur!",
+                isValid: false
+            },{
+                text : "Julien avec un tutu",
+                isValid: false
+            },{
+                text : "Lise mais elle en fait 2",
+                isValid: false
+            },{
+                text : "Lucas dit cul de chatte",
+                isValid: true
+            },
+        ]
+    },{
+        question: "Qui est cas contact dans la classe?",
+        answer: [
+            {
+                text : "personne c'est le pdf sur discord qui le dit.",
                 isValid: true
             },{
-                text : "blablabla",
+                text : "Tout le monde",
                 isValid: false
             },{
-                text : "blablabla",
+                text : "bah c'est virginie clairement.",
                 isValid: false
             },{
-                text : "blablabla",
+                text : "Julien, c'est un hippie",
                 isValid: false
             }
         ]
     },{
-        question: "quatrieme question",
+        question: "Qui est le meilleur joueur de yam's",
         answer: [
-            {
-                text : "blablabla",
+           {
+                text : "Cul de chatte",
                 isValid: true
             },{
-                text : "blablabla",
+                text : "Lise",
                 isValid: false
             },{
-                text : "blablabla",
+                text : "Antonin",
                 isValid: false
-            },{
-                text : "blablabla",
+            }, {
+                text : "Virginie",
                 isValid: false
-            }
+            },
         ]
     },{
-        question: "cinquieme question",
+        question: "Qui dort le plus en cours",
         answer: [
             {
-                text : "blablabla",
+                text : "Antonin",
+                isValid: false
+            },{
+                text : "Medhi",
                 isValid: true
             },{
-                text : "blablabla",
+                text : "Clement",
                 isValid: false
             },{
-                text : "blablabla",
-                isValid: false
-            },{
-                text : "blablabla",
-                isValid: false
-            }
-        ]
-    },{
-        question: "sixieme question",
-        answer: [
-            {
-                text : "blablabla",
-                isValid: true
-            },{
-                text : "blablabla",
-                isValid: false
-            },{
-                text : "blablabla",
-                isValid: false
-            },{
-                text : "blablabla",
+                text : "Lucas",
                 isValid: false
             }
         ]

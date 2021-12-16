@@ -13,8 +13,17 @@ function getRank(){
     return rankData;
 }
 
+function addRank(name, score){
+    rankData.push({
+        name : name,
+        score: score,
+    });
+    return rankData;
+}
+
 module.exports = {
     getQuestions: getQuestions(),
     getQuestionById: (id) => getQuestionById(id),
-    getRank: getRank()
+    getRank: getRank(),
+    addRank: (name, score) => addRank(name, score)
 };
